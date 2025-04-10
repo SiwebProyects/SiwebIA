@@ -1,0 +1,13 @@
+{
+  "name": "siwebia",
+  "version": "1.0.0",
+  "description": "Backend launcher for SiwebIA",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd backend && node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
